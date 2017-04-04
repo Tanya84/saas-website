@@ -17,8 +17,7 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  margin: 0;
+
 }
 
 .img-flex {
@@ -27,7 +26,24 @@ body {
 }
 
 .btn {
-background-color: red;
-padding: 0;
-border: 3px solid #333;
-text-align: center;
+  background-color: red;
+}
+
+
+.logo,
+.banner-content {
+  position: absolute;
+  color: red;
+}
+
+.wrapper {
+  background-color: #000;
+  width: 100%;
+  position: relative;
+}
+
+
+
+h2 {
+  color: #fff;
+}
