@@ -2,7 +2,8 @@ html {}
 
 .btn {
   text-align: center;
-  background-color: red;
+  background-color: #05A730;
+  border: none;
 }
 
 .btn:hover {
@@ -14,8 +15,9 @@ a:hover{
 }
 
 .logo {
-  color: #f00;
+  color: #05A730;
   text-align: center;
+  border: none;
 }
 
 .nav{
@@ -30,12 +32,15 @@ a:hover{
   color: #000;
 }
 
+.MGFX {
+  color: #05A730;
+}
 .masthead {
   background-color: #000;
 }
 
 .des {
-  color: #f00;
+  color: #fff;
 }
 
 .button {
@@ -45,7 +50,8 @@ a:hover{
 
 a {
   text-decoration: none;
-  color: #fff;
+  color: #05A730;
+  border: 1px #05A730 solid;
 }
 
 .card {
