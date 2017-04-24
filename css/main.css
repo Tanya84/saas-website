@@ -99,7 +99,14 @@ th {
 }
 
 table {
-  min-width: 50em;
+  min-width: 50rem;
+}
+
+.b-img {
+  height: 25em;
+  background-image: url("../images/banner.jpg");
+  background-size: cover;
+  background-position: center center;
 }
 
 .box {
