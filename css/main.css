@@ -70,15 +70,16 @@ footer {
 
 .banner {
   position: relative;
-  max-height: 24em;
-  overflow: hidden;
+  max-height: 50em;
+  overflow: visible;
 
 }
 
 .banner-content {
   color: #fff;
   position: absolute;
-  max-height: 24em;
+  max-height: 252em;
+  top: .5rem;
   bottom: 0;
   right: 0;
   left: 0;
@@ -86,13 +87,66 @@ footer {
 }
 
 
-@media only screen and (min-width: 25em) {
 
+tbody th {
+  font-weight: normal;
+  color: #000;
 
+  }
 
+th {
+  color: #05A730;
+}
 
+table {
+  min-width: 50em;
+}
+
+.box {
+  width: 70%;
+}
+
+.caption {
+  font-weight: normal;
 
 }
+
+.ani {
+  width: 16em;
+}
+
+.film {
+  width: 16em;
+}
+
+.ad {
+  width: 16em;
+}
+
+.game {
+  width: 16em;
+}
+
+.effects{
+  width: 16em;
+}
+
+.com {
+  width: 16em;
+}
+
+
+
+
+@media only screen and (min-width: 25em)  {
+
+
+  }
+
+
+
+
+
 
 @media only screen and (min-width: 38em) {
 
@@ -106,12 +160,15 @@ footer {
 
 
 
+
+
+
 }
 
 @media only screen and (min-width: 60em) {
 
   .banner-image {
-    margin-top: -10rem;
+    margin-top: -20rem;
   }
 
 
@@ -121,8 +178,19 @@ footer {
 @media only screen and (min-width: 90em) {
 
   .banner-image {
-    margin-top: -20rem;
+    margin-bottom: -20rem;
   }
+
+
+
+
+}
+
+
+
+
+
+
 
 
 
