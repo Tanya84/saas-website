@@ -113,26 +113,39 @@ table {
 
 .ani {
   width: 16em;
+  color: #05A730;
+
 }
 
 .film {
   width: 16em;
+  color: #05A730;
+  font-weight: bold;
+
 }
 
 .ad {
   width: 16em;
+  color: #05A730;
+  font-weight: bold;
 }
 
 .game {
   width: 16em;
+  color: #05A730;
+  font-weight: bold;
 }
 
 .effects{
   width: 16em;
+  color: #05A730;
+  font-weight: bold;
 }
 
 .com {
   width: 16em;
+  color: #05A730;
+  font-weight: bold;
 }
 
 
