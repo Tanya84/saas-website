@@ -1,3 +1,8 @@
+.titles {
+  font-family: Roboto, sans-serif;
+
+}
+
 .btn {
   text-align: center;
   background-color: #05a730;
@@ -36,6 +41,7 @@ a:hover {
 
 .des {
   color: #fff;
+  font-family: Roboto, sans-serif;
 }
 
 .button {
@@ -51,7 +57,11 @@ a {
 
 .card {
   border: 2px #000 solid;
-  color: blue;
+  color: #05a730;
+}
+
+.pic {
+  max-width: 1px;
 }
 
 .p {
